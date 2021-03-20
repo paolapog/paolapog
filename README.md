@@ -36,8 +36,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Scss](https://img.shields.io/badge/-Scss-%23CC6699?style=flat-square&logo=scss&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Elixir](https://img.shields.io/badge/-Elixir-7b32a8?style=flat-square&logo=elixir)
 ![Elixir-Phoenix](https://img.shields.io/badge/-Phoenix-f26444?style=flat-square&logo=phoenix)
 ![Php](https://img.shields.io/badge/-Php-fff0f0?style=flat-square&logo=php)
