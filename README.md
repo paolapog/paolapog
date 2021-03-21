@@ -45,25 +45,6 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-0f4fd1?style=flat-square&logo=bitbucket&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<br/>
-
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paolapog&show_icons=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolapog&theme=react&exclude_repo=paolapog.site"/>
-    </a>
-</div
-
-<br/>
-
 ---
 
 [linkedin]: https://www.linkedin.com/in/paola-poggini-644169180/
