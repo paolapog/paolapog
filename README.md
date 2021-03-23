@@ -6,7 +6,7 @@
 - 🔥 I've just started contribute to open source projects
 - 💪🏼 I prefer FP to OOP
 - 🏳️ I strongly prefer FE to BE (sorry not sorry)
-- 🥅 Long term goals: master (aka be *really really good at*) front end techonologies and FP languages.
+- 🥅 Long term goals: master (aka be *really really good at*) front end technologies and FP languages.
 ---
 
 ### ⏲️ In my free time I like…	
