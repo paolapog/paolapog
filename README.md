@@ -1,8 +1,5 @@
 # Hi there, I'm Paola 👋
 
-Contact me [<img align="right" alt="paolapog | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
----
-
 ## I'm a curious Developer, thirsty to discover something new
 
 - 📚 I'm currently learning ReactJS
@@ -38,6 +35,10 @@ Contact me [<img align="right" alt="paolapog | LinkedIn" height="30px" src="http
 ![BitBucket](https://img.shields.io/badge/-BitBucket-0f4fd1?style=flat-square&logo=bitbucket&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+---
+
+
+### Contact me [<img align="right" alt="paolapog | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 ---
 
 [linkedin]: https://www.linkedin.com/in/paola-poggini-644169180/
