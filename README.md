@@ -1,6 +1,6 @@
 # Hi there, I'm Paola 👋
 
-Contact with me [<img align="right" alt="paolapog | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+Contact me [<img align="right" alt="paolapog | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 ---
 
 ## I'm a curious Developer, thirsty to discover something new
