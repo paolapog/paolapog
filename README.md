@@ -38,7 +38,7 @@
 ---
 
 
-### Contact me [<img align="right" alt="paolapog | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+### Contact me [<img align="center" alt="paolapog | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 ---
 
 [linkedin]: https://www.linkedin.com/in/paola-poggini-644169180/
