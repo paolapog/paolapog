@@ -1,5 +1,8 @@
 # Hi there, I'm Paola 👋
 
+Contact with me [<img align="right" alt="paolapog | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+---
+
 ## I'm a curious Developer, thirsty to discover something new
 
 - 📚 I'm currently learning ReactJS
@@ -16,16 +19,6 @@
 - 📺 watching TV series (Netflix, I hate you)
 - 🧑🏿‍🤝‍🧑🏽 spending some time with dearest loved ones
 - 📰 reading articles
----
-
-### Contact with me 📝
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=paolapog&repo=paolapog&countColorcountColor&countColor=%237B1E7B" />
-
-[<img align="left" alt="paolapog | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-
-<br />
-
 ---
 
 ### I'm working and I worked with 🛠 
