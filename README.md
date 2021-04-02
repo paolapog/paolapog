@@ -2,7 +2,7 @@
 
 ## I'm a curious Developer, thirsty to discover something new
 
-- 📚 I'm currently learning ReactJS
+- 📚 I'm currently learning ReactJS and Typescript
 - 🔥 I've just started contribute to open source projects
 - 💪🏼 I prefer FP to OOP
 - 🏳️ I strongly prefer FE to BE (sorry not sorry)
