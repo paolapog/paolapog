@@ -19,22 +19,26 @@
 ---
 
 ### I'm working and I worked with 🛠 
+<p>
+   <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/css%20-%23F7DF1E.svg?&style=for-the-badge&color=5BA8EE" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Scss%20-%23F7DF1E.svg?&style=for-the-badge&color=CD6799" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Vue%20-%23F7DF1E.svg?&style=for-the-badge&color=41B883" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&color=00D8FF" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
+   <br />
+   <img src="https://img.shields.io/badge/Php%20-%23F7DF1E.svg?&style=for-the-badge&color=#474A8A" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Symfony%20-%23F7DF1E.svg?&style=for-the-badge&color=000000" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Laravel%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Elixir%20-%23F7DF1E.svg?&style=for-the-badge&color=5b1ca3" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Phoenix%20-%23F7DF1E.svg?&style=for-the-badge&color=f75d3e" />&nbsp;&nbsp;
+   <br />
+   <img src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Bitbucket%20-%23F7DF1E.svg?&style=for-the-badge&color=2684FF" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Docker%20-%23F7DF1E.svg?&style=for-the-badge&color=2496ED" />&nbsp;&nbsp;
+</p> 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Typescript](https://img.shields.io/badge/-Typescript-427bed?style=flat-square&logo=typescript&logoColor=ffffff)
-![Vue](https://img.shields.io/badge/-Vue-1e5c3c?style=flat-square&svg=vue&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Scss](https://img.shields.io/badge/-Scss-%23CC6699?style=flat-square&logo=scss&logoColor=ffffff)
-![Elixir](https://img.shields.io/badge/-Elixir-7b32a8?style=flat-square&logo=elixir)
-![Elixir-Phoenix](https://img.shields.io/badge/-Phoenix-f26444?style=flat-square&logo=phoenix)
-![Php](https://img.shields.io/badge/-Php-fff0f0?style=flat-square&logo=php)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony)
-![Laravel](https://img.shields.io/badge/-Laravel-fff0f0?style=flat-square&logo=laravel)
-![Docker](https://img.shields.io/badge/-Docker-427bed?style=flat-square&logo=docker&logoColor=ffffff)
-![BitBucket](https://img.shields.io/badge/-BitBucket-0f4fd1?style=flat-square&logo=bitbucket&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
 
