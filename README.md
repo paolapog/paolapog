@@ -39,7 +39,9 @@
 ---
 
 
-### Contact me [<img align="center" alt="paolapog | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+### Contact me 
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/paola-poggini-644169180/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:paopoggini2@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 ---
 
 [linkedin]: https://www.linkedin.com/in/paola-poggini-644169180/
