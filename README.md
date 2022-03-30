@@ -42,6 +42,9 @@
 
 ---
 
+### DailyDev Badge
+<a href="https://app.daily.dev/paolapog"><img src="https://api.daily.dev/devcards/004d842db7cd455a828e8c4d7a8946c8.png?r=4l1" width="400" alt="Paola Poggini's Dev Card"/></a>
+
 
 ### Contact me 
 <a href="https://www.linkedin.com/in/paola-poggini-644169180/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
