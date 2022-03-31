@@ -43,7 +43,7 @@
 ---
 
 ### DailyDev Badge
-<a href="https://app.daily.dev/paolapog"><img src="https://api.daily.dev/devcards/004d842db7cd455a828e8c4d7a8946c8.png?r=4l1" width="400" alt="Paola Poggini's Dev Card"/></a>
+<a href="https://app.daily.dev/paolapog"><img src="https://api.daily.dev/devcards/004d842db7cd455a828e8c4d7a8946c8.png?r=qaq" width="400" alt="Paola Poggini's Dev Card"/></a>
 
 
 ### Contact me 
