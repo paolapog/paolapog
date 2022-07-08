@@ -9,15 +9,6 @@
 - 🥅 Long term goals: master (aka be *really really good at*) front end technologies and FP languages.
 ---
 
-### ⏲️ In my free time I like…	
-
-- 🧗‍♀️ sports (all kinds of sports, seriously. I'm a sportsperson)
-- 🍝 cooking and enjoy good food
-- 📺 watching TV series (Netflix, I hate you)
-- 🧑🏿‍🤝‍🧑🏽 spending some time with dearest loved ones
-- 📰 reading articles
----
-
 ### I'm working and I worked with 🛠 
 <p>
    <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
