@@ -2,7 +2,7 @@
 
 ## I'm a curious Developer, thirsty to learn something new.
 
-- 📚 I'm currently learning NextJS, React Query and Typescript
+- 📚 I'm currently learning NextJS and React Query
 - 🔥 I've just started contribute to open source projects
 - 💪🏼 I prefer FP to OOP
 - 🏳️ I strongly prefer FE to BE (sorry not sorry)
