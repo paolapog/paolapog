@@ -4,7 +4,6 @@
 
 - 📚 I'm currently learning NextJS and React Query
 - 🔥 I've just started contribute to open source projects
-- 💪🏼 I prefer FP to OOP
 - 🏳️ I strongly prefer FE to BE (sorry not sorry)
 - 🥅 Long term goals: master (aka be *really really good at*) front end technologies and FP languages.
 ---
