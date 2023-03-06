@@ -1,6 +1,6 @@
 # Hi there, I'm Paola 👋
 
-## I'm a curious Developer, thirsty to learn something new.
+## I'm a curious Developer, thirsty to learn something new
 
 - 📚 I'm currently learning NextJS and React Query
 - 🔥 I've just started contribute to open source projects
