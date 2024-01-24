@@ -6,7 +6,7 @@
 - 🔥 I'm contributing to open source projects (mainly UI Libraries and documentation)
 - 👩‍🎓 I'm an achievement oriented person
 - 🥅 Long term goals: master (aka be *really really good at*) front end technologies
-- 🏝️ When I'm not coding... I'm travelling around the world (for surfing), doing sports, reading some articles or spending time with my dearest people
+- 🏝️ When I'm not coding... I'm travelling around the world (for surfing), doing sports, playing videogames, reading some articles or spending time with my dearest people
 ---
 
 ### 🏆 Github Profile Trophy 
