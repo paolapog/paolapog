@@ -2,7 +2,7 @@
 
 ## I'm a curious developer, thirsty to learn something new every day 
 
-- 📚 I'm currently breaking my head with Algorithms and Data Structures
+- 📚 I'm currently brushing up on backend skills, learning NodeJS
 - 🔥 I'm contributing to open source projects (mainly UI Libraries and documentation)
 - 👩‍🎓 I'm an achievement oriented person
 - 🥅 Long term goals: becoming the supportive and knowledgeable mentor I wished I had during the early stages of my career
